@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "name": "web2062-finalexam",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

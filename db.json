@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 12prm",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "price": "500"
+    },
+    {
+      "id": "2",
+      "name": "xiaoMi",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg",
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": "samsung",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg",
+      "price": 500
+    },
+    {
+      "id": "4",
+      "name": "asus",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+      "price": 200
+    },
+    {
+      "name": "san pham moi",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+      "price": "250",
+      "id": "5"
+    },
+    {
+      "name": "iPhone 14prm",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "price": "250",
+      "id": "6"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "123456"
+    }
+  ]
+}
